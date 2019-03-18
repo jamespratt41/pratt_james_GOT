@@ -107,6 +107,16 @@ main {
   display: none;
 }
 
+.lightbox-close{
+  position: absolute;
+  color: #fff;
+  font-size: 2rem;
+  right: 12px;
+  top: 12px;
+  cursor: pointer;
+  
+}
+
 .lightbox-on{
   display: block;
 }
